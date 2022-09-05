@@ -1,0 +1,52 @@
+body {
+	background-color: rgb(5, 0, 86);
+}
+/*Design de formulaire*/
+#formulaire {
+	background-color: white;
+	width: 400px;
+	margin: auto;
+	margin-top: 150px;
+	border-radius: 10%;
+}
+#formulaire img {
+	width: 150px;
+	padding: 30px;
+	margin: 10px auto;
+	display: block;
+	border-radius: 50%;
+	border:
+}
+#formulaire input {
+	margin: 10px auto;
+	padding: 10px;
+	display: block;
+}
+#formulaire .Forgot {
+	position: absolute;
+	left: 47%;
+	transform: translate(-50% -50%);
+}
+	
+
+#formulaire label, .c1 {
+	margin-left: 65px;
+	position: absolute;
+	bottom: 10%;
+}
+#formulaire .c1 {
+	bottom: 9%;
+	margin-left: 50px;
+}
+#formulaire button {
+	text-align: center;
+	display: block;
+	margin: 0 50px;
+	width: 300px;
+	padding: 10px;
+	text-transform: uppercase;
+	color: skyblue;
+	background-color: black;	
+}
+
+
